@@ -111,7 +111,7 @@ nav.sticky .menu-btn{
 .home{
   height: 100vh;
   width: 100%;
-  background: url("/home/aryashrestha/Documents/Web-Tech Lab/Portfolio_Website/Images/BG.jpeg") no-repeat;
+  background: url("/aryanaryashrestha.github.io/main/BG.jpeg") no-repeat;
   background-size: cover;
   background-position: center;/* Google Font CDN Link */
   @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
@@ -226,7 +226,7 @@ nav.sticky .menu-btn{
   .home{
     height: 100vh;
     width: 100%;
-    background: url("/home/aryashrestha/Documents/Web-Tech Lab/Portfolio_Website/Images/BG.jpeg") no-repeat;
+    background: url("/aryanaryashrestha.github.io/main/BG.jpeg") no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
